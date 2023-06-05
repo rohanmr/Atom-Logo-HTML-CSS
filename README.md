@@ -1,6 +1,8 @@
 # Atom-Logo-HTML-CSS
 
-Download the Code and Run on Live-Server
+Download the Code and Open In VS Code.
+
+Run on Live-Server.
 
 Output Image:
 
